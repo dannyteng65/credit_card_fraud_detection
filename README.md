@@ -94,23 +94,6 @@ To improve transparency and explainability, this project incorporates:
 
 These methods help explain model predictions, which is essential for deploying machine learning systems in financial risk management.
 
----
-
-## Project Structure
-
-credit_card_fraud_detection/
-├─ README.md
-├─ requirements.txt
-├─ notebooks/
-│ ├─ data_exploration.ipynb
-│ ├─ model_training.ipynb
-│ └─ model_evaluation.ipynb
-├─ outputs/
-│ ├─ figures/
-│ ├─ confusion_matrix.png
-│ └─ evaluation_results.json
-└─ data/
-└─ (creditcard.csv not included)
 
 ## How to Run
 
