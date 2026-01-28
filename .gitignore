@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (DO NOT UPLOAD)
+data/raw/
+*.csv
+
+# Outputs (optional: keep figures only if you want)
+outputs/
